@@ -1,7 +1,7 @@
 <!-- AUTO-GENERATED-CONTENT:START (STARTER) -->
 <p align="center">
   <a href="https://www.purpleandbold.com">
-    <img alt="Gatsby" src="https://cdn.discordapp.com/attachments/179103523789733888/544397024167067678/unknown.png" width="90" />
+    <img alt="Gatsby" src="https://cdn.discordapp.com/attachments/179103523789733888/544397024167067678/unknown.png" width="190" />
   </a>
 </p>
 <h1 align="center">
