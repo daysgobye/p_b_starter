@@ -19,7 +19,7 @@ Kick off your project with this boilerplate. This starter ships with the main Ga
 
     ```sh
     # create a new Gatsby site using the the purple + bold starter
-    npm gatsby new purple_bold https://github.com/daysgobye/p_b_starter
+    gatsby new purple_bold https://github.com/daysgobye/p_b_starter
     ```
 
 1.  **Start developing.**
