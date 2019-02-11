@@ -4,6 +4,7 @@ import { Link } from "gatsby"
 import Layout from "../components/layout/layout"
 import Image from "../components/image"
 import SEO from "../components/seo"
+import Content from '../components/utility/Content/Content'
 
 class IndexPage extends Component {
   constructor(props) {
@@ -14,7 +15,9 @@ class IndexPage extends Component {
     return (
       <Layout>
         <SEO title="Home" keywords={[`gatsby`, `application`, `react`]} />
-        <Link to={"/StoryBook/"}>Story Book</Link>
+        <Content>
+          <p>blank page just start making!</p>
+        </Content>
       </Layout>
     );
   }
