@@ -1,16 +1,15 @@
 <!-- AUTO-GENERATED-CONTENT:START (STARTER) -->
 <p align="center">
   <a href="https://www.purpleandbold.com">
-    <img alt="Gatsby" src="https://cdn.discordapp.com/attachments/179103523789733888/544397024167067678/unknown.png" width="60" />
+    <img alt="Gatsby" src="https://cdn.discordapp.com/attachments/179103523789733888/544397024167067678/unknown.png" width="90" />
   </a>
 </p>
 <h1 align="center">
-  Gatsby's default starter
+  Purple + Bold Starter
 </h1>
 
-Kick off your project with this default boilerplate. This starter ships with the main Gatsby configuration files you might need to get up and running blazing fast with the blazing fast app generator for React.
+Kick off your project with this boilerplate. This starter ships with the main Gatsby configuration files done and all of our componets 
 
-_Have another more specific idea? You may want to check out our vibrant collection of [official and community-created starters](https://www.gatsbyjs.org/docs/gatsby-starters/)._
 
 ## 🚀 Quick start
 
@@ -38,17 +37,17 @@ _Have another more specific idea? You may want to check out our vibrant collecti
 
     _Note: You'll also see a second link: _`http://localhost:8000/___graphql`_. This is a tool you can use to experiment with querying your data. Learn more about using this tool in the [Gatsby tutorial](https://www.gatsbyjs.org/tutorial/part-five/#introducing-graphiql)._
 
-    Open the `my-default-starter` directory in your code editor of choice and edit `src/pages/index.js`. Save your changes and the browser will update in real time!
+    Open the `purple_bold` directory in your code editor of choice and edit `src/pages/index.js`. Save your changes and the browser will update in real time!
 
 ## 🧐 What's inside?
 
 
-1.   **layout**: in here you will find a simple nav that you can add your pages to and it will work on mobile right off the bat
-2.  **content comp**: this is a component that does a good amount a mobile styling for you import it on every page an put the page inside of it and it will keep your content all the same width and give you some spacing on edgesnap
+1.   **`layout`**: in here you will find a simple nav that you can add your pages to and it will work on mobile right off the bat
+2.  **`content comp`**: this is a component that does a good amount a mobile styling for you import it on every page an put the page inside of it and it will keep your content all the same width and give you some spacing on edgesnap
 
 3.  **ButtonRound**: this is a nice button thats round it can be a gatsby link or a normal a tag or run functions on click 
 
-4.  **`GoogleMaps`**: this is a google map with a link to drections pass it a address and your good to go you can change how it looks with styles from [here](https://snazzymaps.com/)
+4.  **``GoogleMaps``**: this is a google map with a link to drections pass it a address and your good to go you can change how it looks with styles from [here](https://snazzymaps.com/)
 
 5.  **`LaxHeadder`**: this is a drop in paralax headder pass it a background img and any text you want and your done you can edit the affect in the comp
 
